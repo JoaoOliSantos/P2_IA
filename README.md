@@ -7,6 +7,6 @@ Para o projeto funcionar corretamente será necessario a instalaçao dos seguint
 python -m pip install requests pandas scipy liac-arff,
 pip install matplotlib,
 pip install scikit-learn, 
-pip install seaborn,
+pip install seaborn
 
 
